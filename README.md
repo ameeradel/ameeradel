@@ -16,18 +16,15 @@
 
 
 
-<h4 align="center">Hi, I'm Hossam, a Devops engineer who loves closing the gap between actions needed to quickly change an application,
-and the tasks that maintain its reliability. I currently work on my skills in the unification and automation of processes.
-I’d love to combine my passion for programming and building and automating the infrastructure and building the CI/CD pipeline.
-I would like to have a chance to build scalable back-end systems within cloud-based platforms.</h4>
+<h4 align="center"></h4>
 
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hossam-alsankary-2b084024b/" target="_blank">
+  <a href="[https://www.linkedin.com/in/hossam-alsankary-2b084024b/](https://www.linkedin.com/in/ameer-adel-b8b673163/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:hossamhassanalsankary@gmail.com" target="_blank">
+  <a href="mailto:se.ameeradel@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
