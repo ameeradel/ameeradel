@@ -39,20 +39,15 @@
     <h3>
         Languages & Tools
     </h3>
-  <img src="https://developer.apple.com/swift/images/swift-logo.svg" height="50" width="52" alt="cplusplus logo"  />
-  <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" height="50" width="52" alt="c logo"  />
-  <img src="https://developer.apple.com/assets/elements/icons/sdk-16/sdk-16-128x128_2x.png" height="50" width="52" alt="python logo"  />
-  <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" height="50" width="52"  />
-    <img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" height="50" width="52" alt="embeddedc logo"  />
-  <img src="https://developer.apple.com/assets/elements/icons/weatherkit/weatherkit-96x96_2x.png" height="50" width="52" alt="express logo"  />
-  <img src="https://developer.apple.com/assets/elements/icons/shareplay/shareplay-96x96_2x.png" height="50" width="52" alt="circleci logo"  />
-  <img src="https://developer.apple.com/assets/elements/icons/wallet/wallet-96x96_2x.png" height="50" width="52"  />
+  <img src="https://developer.apple.com/swift/images/swift-logo.svg" height="50" width="52" alt="Swift logo"  />
+  <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" height="50" width="52" alt="Xcode logo"  />
+  <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" height="50" width="52" alt="CoreMl" />
+  <img src="https://developer.apple.com/assets/elements/icons/weatherkit/weatherkit-96x96_2x.png" height="50" width="52" alt="weatherkit"  />
+  <img src="https://developer.apple.com/assets/elements/icons/shareplay/shareplay-96x96_2x.png" height="50" width="52" alt="SharePlay"  />
+  <img src="https://developer.apple.com/assets/elements/icons/wallet/wallet-96x96_2x.png" height="50" width="52" alt="Wallet and Apple pay"  />
+  <img src="https://developer.apple.com/assets/elements/icons/passkeys/passkeys-64x64_2x.png" height="50" width="52" alt="PassKeys"  />
+  <img src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" height="40" width="52" alt="Metal"  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://www.svgrepo.com/show/376353/terraform.svg" height="40" width="52" alt="circleci logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Circleci-icon-logo.svg" height="40" width="52"   />
 
 </div>
 
