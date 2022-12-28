@@ -1,33 +1,16 @@
+
 <div align="center">
+  <img height="250"  src="https://ouch-cdn2.icons8.com/HszctXzFhnoWxLXo3ekflWyFwE-ueoKLfZMh72i-Xa0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM1/LzM3MTZmODliLTE0/MDAtNDVmNy04NzZj/LWNiOGU0N2Q2Nzlj/Ni5zdmc.png"  />
 </div>
 
-
-<h2 align="center">Hi👋, I'm Ameer Adel Welcome to my profile. 
-  </h2>
+<h1 align="center">Hi👋, I'm Ameer Adel 
+  </h1>
   
-<div align="center">
-  <img height="600"  src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif"  />
-</div>
-
-
-
-
-
-  <h3 align="center">
-  Here you will find a short story about my career summary, I hope you enjoy it :)
+<h3 align="center">
+Passionate junior iOS developer with a love for learning and a knack for problem solving. Over two years of experience developing mobile apps in Swift. Skilled in using Apple's Xcode development environment and the SwiftUI framework.
 </h3>
 
-<h4 align="center">
-Since I was thirteen years old, I have had a passion for everything related to technology, from mobiles to computers. My father, may God have mercy on him, always encouraged me to develop this passion and turn it into a business. I started working in web development when he asked me if I could make some modifications and add banner ads to the website of the travel and tourism company he was managing at this time. That's when I started learning HTML, CSS and JavaScript. Until I have completed all the required modifications.After that I started working on a personal website using Travel Affiliate program. And I was making a good income per month through commission. Then I worked on designing and managing many websites and vbulletin forums which was so popular at this time. After that I decided to enter the Faculty of Computer Science and studied Java as a primary language, and my graduation project was an Android application that works to restore real social interaction instead of social media. After graduation, I finished my military service and started working as a Wordpress developer for 5 months in this time I developed 9 Wordpress websites for different companies, and then I moved to mail marketing using I-response and SMTPs, after one and half a year I decided to go back working on mobile applications, but this time as an iOS Developer using Swift and swiftUi. recently I have started paul hudson swift and swiftUI 100 days tutorials on hackingwithswift, and I wish i will finish it soon and start my new career chapter as an iOS developer. 
-</h4>
-  <h3 align="center">
-I'm pleased you have spent some of your precious time reading my career summary, wish you all the best in your professional and social life.</h3>
-
-
-
 <h4 align="center"></h4>
-
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ameer-adel-b8b673163/" target="_blank">
@@ -40,8 +23,6 @@ I'm pleased you have spent some of your precious time reading my career summary,
   </a>
 
 </div>
-
-
 
 
 <div align="center">
