@@ -39,7 +39,7 @@
     <h3>
         Languages & Tools
     </h3>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://developer.apple.com/swift/images/swift-logo.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="50" width="52" alt="c logo"  />
   <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" height="50" width="52" alt="python logo"  />
   <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" height="50" width="52"  />
