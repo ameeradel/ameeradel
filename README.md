@@ -39,14 +39,14 @@
     <h3>
         Languages & Tools
     </h3>
-  <img src="https://developer.apple.com/swift/images/swift-logo.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="50" width="52" alt="c logo"  />
-  <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" height="50" width="52" alt="python logo"  />
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" height="50" width="52"  />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50" width="52" alt="embeddedc logo"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-cloudformation.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://www.svgrepo.com/show/376353/terraform.svg" height="40" width="52" alt="circleci logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" height="40" width="52"  />
+  <img src="https://developer.apple.com/swift/images/swift-logo.svg" height="50" width="52" alt="cplusplus logo"  />
+  <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" height="50" width="52" alt="c logo"  />
+  <img src="https://developer.apple.com/assets/elements/icons/sdk-16/sdk-16-128x128_2x.png" height="50" width="52" alt="python logo"  />
+  <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" height="50" width="52"  />
+    <img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" height="50" width="52" alt="embeddedc logo"  />
+  <img src="https://developer.apple.com/assets/elements/icons/weatherkit/weatherkit-96x96_2x.png" height="50" width="52" alt="express logo"  />
+  <img src="https://developer.apple.com/assets/elements/icons/shareplay/shareplay-96x96_2x.png" height="50" width="52" alt="circleci logo"  />
+  <img src="https://developer.apple.com/assets/elements/icons/wallet/wallet-96x96_2x.png" height="50" width="52"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
