@@ -2,6 +2,9 @@
 </div>
 
 
+<h2 align="center">Hi👋, I'm Ameer Adel Welcome to my profile. 
+  </h2>
+  
 <div align="center">
   <img height="600"  src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif"  />
 </div>
@@ -9,9 +12,7 @@
 
 
 
-<h2 align="center">Hi👋, I'm Ameer Adel Welcome to my profile. 
-  </h2>
-  
+
   <h3 align="center">
   Here you will find a short story about my career summary, I hope you enjoy it :)
 </h3>
