@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img height="300"  src="https://codecondo.com/wp-content/uploads/2016/04/10-Things-You-Should-Know-If-You-Want-To-Be-An-iOS-Developer-785X391.jpg"  />
+  <img height="300"  src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif"  />
 </div>
 
 
