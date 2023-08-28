@@ -7,8 +7,7 @@
   </h1>
   
 <h3 align="center">
-Passionate junior iOS developer with a love for learning and a knack for problem solving. Over two years of experience developing mobile apps in Swift. Skilled in using Apple's Xcode development environment and the SwiftUI framework.
-</h3>
+to be modified</h3>
 
 <h4 align="center"></h4>
 
