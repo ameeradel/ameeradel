@@ -22,7 +22,7 @@ I'm a passionate DevOps learner and Linux enthusiast on a mission to master infr
 
 ### 📫 Let’s Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/ameer-adel-b8b673163/)
-- 📬 Email: Se.ameeradel@gmail.com
+- 📬 Email: [se.ameeradel@gmail.com](mailto:se.ameeradel@gmail.com)
 
 ---
 
@@ -38,3 +38,4 @@ I'm a passionate DevOps learner and Linux enthusiast on a mission to master infr
 ### ⭐️ GitHub Stats:
 ![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameeradel&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameeradel&layout=compact&theme=tokyonight)
