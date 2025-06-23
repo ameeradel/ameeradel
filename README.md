@@ -7,7 +7,7 @@
   </h1>
   
 <h3 align="center">
-to be modified</h3>
+Social Links</h3>
 
 <h4 align="center"></h4>
 
