@@ -21,9 +21,8 @@ I'm a passionate DevOps learner and Linux enthusiast on a mission to master infr
 ---
 
 ### 📫 Let’s Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://yourwebsite.com) *(optional)*
-- 📬 Email: you@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ameer-adel-b8b673163/)
+- 📬 Email: Se.ameeradel@gmail.com
 
 ---
 
