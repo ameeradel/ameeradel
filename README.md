@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Ameer Adel
+<h1 align="center">Hi there 👋, I'm Ameer Adel</h1>
+<h3 align="center">🚀 DevOps Learner | Linux Enthusiast | Automation Explorer</h3>
 
-I'm a passionate DevOps learner and Linux enthusiast on a mission to master infrastructure automation, cloud deployments, and CI/CD. I believe in building through hands-on experience and solving real-world problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&width=435&lines=Building+hands-on+CI%2FCD+pipelines;Learning+DevOps+by+doing;Loving+Linux+and+automation" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -14,15 +17,17 @@ I'm a passionate DevOps learner and Linux enthusiast on a mission to master infr
 ---
 
 ### 📈 Currently Learning:
-- Building real-world CI/CD pipelines
+- Real-world CI/CD pipelines
 - Infrastructure as Code (IaC)
 - Kubernetes fundamentals
 
 ---
 
 ### 📫 Let’s Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/ameer-adel-b8b673163/)
-- 📬 Email: [se.ameeradel@gmail.com](mailto:se.ameeradel@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-adel-b8b673163/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.ameeradel@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ameeradel&style=for-the-badge)
 
 ---
 
@@ -35,7 +40,21 @@ I'm a passionate DevOps learner and Linux enthusiast on a mission to master infr
 
 ---
 
-### ⭐️ GitHub Stats:
-![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameeradel&show_icons=true&theme=tokyonight)
+### 🌟 GitHub Stats:
 
+![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameeradel&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameeradel&layout=compact&theme=tokyonight)
+
+---
+
+### 🧩 Projects You Should Check Out:
+- 🔹 **CI/CD Playground** – Practice repo for GitHub Actions, Docker, EC2 deployments  
+- 🔹 **Linux Scripts Lab** – Handy automation scripts for daily tasks  
+- 🔹 **DevOps Journey Notes** – Markdown doc of what I'm learning daily
+
+---
+
+<!-- optional footer -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ameeradel&theme=tokyonight&no-frame=true&column=7" />
+</p>
