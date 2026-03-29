@@ -1,60 +1,123 @@
-<h1 align="center">Hi there 👋, I'm Ameer Adel</h1>
-<h3 align="center">🚀 DevOps Learner | Linux Enthusiast | Automation Explorer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&width=435&lines=Building+hands-on+CI%2FCD+pipelines;Learning+DevOps+by+doing;Loving+Linux+and+automation" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Ameer Adel</h1>
+<h3 align="center">DevOps Engineer | Building Scalable & Production-Ready Systems</h3>
 
 ---
 
-### 🔧 Technologies & Tools I’m Working With:
-- 🐧 Linux | 🖥️ Bash Scripting
-- 🐳 Docker & Docker Compose
-- ☁️ AWS (EC2, S3) | GitHub Actions CI/CD
-- ⚙️ Monitoring & Logs (coming soon...)
-- 🧰 Terraform, Ansible (next stop!)
+## 🚀 About Me
+
+DevOps Engineer focused on designing, building, and deploying production-ready systems.
+
+I specialize in containerization, CI/CD pipelines, and cloud deployments — with a strong focus on system reliability, networking, and debugging.
+
+I don’t just use tools — I understand how systems behave under real-world conditions.
 
 ---
 
-### 📈 Currently Learning:
-- Real-world CI/CD pipelines
-- Infrastructure as Code (IaC)
-- Kubernetes fundamentals
+## ⚙️ Tech Stack
+
+### 🐧 Systems & Scripting
+- Linux (Advanced)
+- Bash Scripting
+
+### 🐳 Containers & Orchestration
+- Docker
+- Docker Compose
+- Kubernetes
+
+### 🔄 CI/CD
+- GitHub Actions
+- Automated build & deployment pipelines
+
+### ☁️ Cloud & Infrastructure
+- AWS (EC2, S3)
+- Infrastructure concepts & deployment strategies
+
+### 🌐 Networking & Web
+- Nginx (Reverse Proxy)
+- HTTP/HTTPS flow understanding
+- Service-to-service communication
+
+### 🗄️ Databases
+- PostgreSQL
+- Data persistence & containerized DB design
 
 ---
 
-### 📫 Let’s Connect:
+## 🛠 Featured Projects
+
+### 🔥 DevOps Notes App (Production-Ready)
+
+A full real-world DevOps project demonstrating system design and deployment.
+
+#### 💡 Highlights:
+- Dockerized Node.js application
+- PostgreSQL with persistent storage
+- Nginx reverse proxy (public entry point)
+- Internal service communication via Docker network
+- CI/CD pipeline using GitHub Actions
+- Deployment on AWS EC2
+
+#### 🧠 What this project demonstrates:
+- Real production-like architecture
+- Networking between services
+- Secure database isolation
+- Automated deployment workflow
+
+👉 https://github.com/ameeradel/Devops-NotesApp
+
+---
+
+### ☸️ Kubernetes Profile Manager App
+
+A containerized application deployed using Kubernetes to demonstrate orchestration and system management.
+
+#### 💡 Highlights:
+- Kubernetes Deployments & Services
+- Internal service discovery
+- Config management using Secrets / ConfigMaps
+- Pod lifecycle & self-healing behavior
+
+#### 🧠 What this project demonstrates:
+- Container orchestration concepts
+- Scalable application design
+- Infrastructure abstraction
+
+👉 Kubernetes-Demo-App-Profile-Manager (PUT LINK HERE)
+
+---
+
+## 🧠 Engineering Approach
+
+- Debugging-first mindset (focus on root cause, not symptoms)
+- Build systems locally as production simulations
+- Deep understanding of networking and container behavior
+- Focus on reliability, scalability, and clean architecture
+
+---
+
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-adel-b8b673163/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.ameeradel@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ameeradel&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.ameeradel@gmail.com)
 
 ---
 
-### 📌 Fun Facts:
-- 💡 I love breaking things just to fix them better
-- 🎣 Big fan of fishing in the Red Sea
-- 🧠 Always building, always learning
-
-> “Consistency beats talent when talent doesn’t show up.”
-
----
-
-### 🌟 GitHub Stats:
+## 📊 GitHub Stats
 
 ![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameeradel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameeradel&layout=compact&theme=tokyonight)
 
 ---
 
-### 🧩 Projects You Should Check Out:
-- 🔹 **CI/CD Playground** – Practice repo for GitHub Actions, Docker, EC2 deployments  
-- 🔹 **Linux Scripts Lab** – Handy automation scripts for daily tasks  
-- 🔹 **DevOps Journey Notes** – Markdown doc of what I'm learning daily
+## ⚡ Key Focus Areas
+
+- Building production-ready systems
+- CI/CD automation
+- Containerized architectures
+- Cloud deployment strategies
+- Observability & debugging
 
 ---
 
-<!-- optional footer -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ameeradel&theme=tokyonight&no-frame=true&column=7" />
-</p>
+## 💬 Philosophy
+
+> “Good engineers write code. Great engineers build systems.”
