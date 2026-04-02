@@ -82,7 +82,7 @@ A containerized application deployed using Kubernetes to demonstrate orchestrati
 - Scalable application design
 - Infrastructure abstraction
 
-👉 Kubernetes-Demo-App-Profile-Manager (PUT LINK HERE)
+👉 Kubernetes-Demo-App-Profile-Manager (https://github.com/ameeradel/Kubernetes-Demo-App-Profile-Manager)
 
 ---
 
