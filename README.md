@@ -1,4 +1,8 @@
+<div align="center">
+
 # Hi 👋, I'm Ameer Adel
+
+</div>
 
 ### DevOps Engineer | Linux • AWS • Docker • Kubernetes • Terraform • CI/CD • Monitoring
 
