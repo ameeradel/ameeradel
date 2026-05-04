@@ -1,123 +1,186 @@
-<h1 align="center">Hi 👋, I'm Ameer Adel</h1>
-<h3 align="center">DevOps Engineer | Building Scalable & Production-Ready Systems</h3>
+# Hi 👋, I'm Ameer Adel
+
+### DevOps Engineer | Linux • AWS • Docker • Kubernetes • Terraform • CI/CD • Monitoring
+
+I’m a DevOps Engineer focused on building, deploying, and operating cloud-native applications using practical, production-style workflows.
+
+I work across Linux, AWS, Docker, Kubernetes, Terraform, GitHub Actions, NGINX, Prometheus, and Grafana, with a strong focus on automation, reliability, observability, networking, and troubleshooting.
+
+I don’t just use DevOps tools — I focus on understanding how systems behave in real environments.
 
 ---
 
 ## 🚀 About Me
 
-DevOps Engineer focused on designing, building, and deploying production-ready systems.
-
-I specialize in containerization, CI/CD pipelines, and cloud deployments — with a strong focus on system reliability, networking, and debugging.
-
-I don’t just use tools — I understand how systems behave under real-world conditions.
+- DevOps Engineer based in Cairo, Egypt
+- Hands-on experience with Linux servers, AWS infrastructure, Docker, Kubernetes, CI/CD, and monitoring
+- Built a production-style Kubernetes project using K3s on AWS EC2
+- Experienced in deploying containerized applications, configuring ingress traffic, managing secrets, and monitoring application metrics
+- Strong focus on clean documentation, debugging, automation, and real-world system reliability
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🐧 Systems & Scripting
-- Linux (Advanced)
-- Bash Scripting
+### 🐧 Linux & System Administration
+- Linux Administration
+- Bash
+- SSH
+- System troubleshooting
+- Log analysis
+- Server configuration
 
-### 🐳 Containers & Orchestration
+### ☁️ Cloud & Infrastructure
+- AWS
+- EC2
+- IAM
+- VPC basics
+- Security Groups
+- ECR
+- Terraform
+- Infrastructure as Code
+
+### 🐳 Containers & Kubernetes
 - Docker
 - Docker Compose
 - Kubernetes
+- K3s
+- Deployments
+- Services
+- Ingress
+- ConfigMaps
+- Secrets
+- Persistent Volumes
+- PVCs
+- ImagePullSecrets
 
-### 🔄 CI/CD
+### 🔄 CI/CD & Version Control
+- Git
+- GitHub
 - GitHub Actions
-- Automated build & deployment pipelines
+- CI/CD pipelines
+- Docker image build and push workflows
+- Automated Kubernetes deployments
+- AWS ECR integration
 
-### ☁️ Cloud & Infrastructure
-- AWS (EC2, S3)
-- Infrastructure concepts & deployment strategies
-
-### 🌐 Networking & Web
-- Nginx (Reverse Proxy)
-- HTTP/HTTPS flow understanding
+### 🌐 Networking & Traffic Management
+- NGINX
+- NGINX Ingress Controller
+- HTTP/HTTPS flow
+- Reverse Proxy
+- Load Balancing concepts
+- Service Discovery
+- Kubernetes networking
 - Service-to-service communication
+
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
+- Application metrics
+- ServiceMonitor
+- Health checks
+- Liveness probes
+- Readiness probes
+- Resource requests and limits
 
 ### 🗄️ Databases
 - PostgreSQL
-- Data persistence & containerized DB design
+- Containerized database deployment
+- Persistent storage using PVCs
+- Database connectivity troubleshooting
 
 ---
 
-## 🛠 Featured Projects
+## 🛠 Featured Project
 
-### 🔥 DevOps Notes App (Production-Ready)
+## ☸️ Notes API DevOps Platform — K3s on AWS
 
-A full real-world DevOps project demonstrating system design and deployment.
+A production-style DevOps project demonstrating how to deploy, operate, monitor, and automate a containerized Node.js API on a Kubernetes cluster running on AWS EC2.
 
-#### 💡 Highlights:
-- Dockerized Node.js application
-- PostgreSQL with persistent storage
-- Nginx reverse proxy (public entry point)
-- Internal service communication via Docker network
-- CI/CD pipeline using GitHub Actions
-- Deployment on AWS EC2
+This project focuses on real DevOps engineering practices, including infrastructure provisioning, Kubernetes operations, CI/CD automation, ingress traffic routing, monitoring, and troubleshooting.
 
-#### 🧠 What this project demonstrates:
-- Real production-like architecture
-- Networking between services
-- Secure database isolation
-- Automated deployment workflow
+### 🔥 Project Highlights
 
-👉 https://github.com/ameeradel/Devops-NotesApp
+- Provisioned AWS infrastructure using Terraform
+- Built a 3-node K3s Kubernetes cluster on AWS EC2
+- Configured 1 control-plane node and 2 worker nodes
+- Used Terraform user data / cloud-init for automated K3s bootstrapping
+- Deployed a Node.js Notes API with PostgreSQL
+- Used Kubernetes Deployments, Services, ConfigMaps, Secrets, and PVCs
+- Configured NGINX Ingress Controller for external traffic routing
+- Integrated AWS ECR for private container image hosting
+- Built CI/CD pipeline using GitHub Actions
+- Automated Docker image build, push, and Kubernetes deployment
+- Refreshed Kubernetes imagePullSecret for ECR authentication
+- Implemented health, readiness, and metrics endpoints
+- Configured Prometheus and Grafana monitoring
+- Used ServiceMonitor to scrape application metrics
+- Documented architecture, traffic flow, CI/CD flow, and troubleshooting notes
+
+### 🧠 What This Project Demonstrates
+
+- Real-world Kubernetes deployment workflow
+- Infrastructure as Code using Terraform
+- Kubernetes networking and ingress routing
+- Production-style CI/CD automation
+- AWS ECR and Kubernetes image pull authentication
+- Application observability with Prometheus and Grafana
+- Linux server and Kubernetes troubleshooting
+- Strong understanding of how cloud-native systems work end-to-end
+
+👉 Project Repository: [notes-api-devops-k3s](https://github.com/ameeradel/notes-api-devops-k3s)
 
 ---
+
+## 📂 Other Projects
+
+### 🔥 DevOps Notes App
+
+Docker-based deployment project using Node.js, PostgreSQL, NGINX, GitHub Actions, and AWS EC2.
+
+👉 Project Repository: [Devops-NotesApp](https://github.com/ameeradel/Devops-NotesApp)
 
 ### ☸️ Kubernetes Profile Manager App
 
-A containerized application deployed using Kubernetes to demonstrate orchestration and system management.
+Kubernetes fundamentals project demonstrating Deployments, Services, ConfigMaps, Secrets, pod lifecycle behavior, and service discovery.
 
-#### 💡 Highlights:
-- Kubernetes Deployments & Services
-- Internal service discovery
-- Config management using Secrets / ConfigMaps
-- Pod lifecycle & self-healing behavior
-
-#### 🧠 What this project demonstrates:
-- Container orchestration concepts
-- Scalable application design
-- Infrastructure abstraction
-
-👉 Kubernetes-Demo-App-Profile-Manager (https://github.com/ameeradel/Kubernetes-Demo-App-Profile-Manager)
+👉 Project Repository: [Kubernetes-Demo-App-Profile-Manager](https://github.com/ameeradel/Kubernetes-Demo-App-Profile-Manager)
 
 ---
 
 ## 🧠 Engineering Approach
 
-- Debugging-first mindset (focus on root cause, not symptoms)
-- Build systems locally as production simulations
-- Deep understanding of networking and container behavior
-- Focus on reliability, scalability, and clean architecture
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-adel-b8b673163/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.ameeradel@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameeradel&show_icons=true&theme=tokyonight)
+- I focus on understanding systems deeply, not just running commands
+- I build projects as production-style simulations
+- I care about reliability, automation, observability, and clean architecture
+- I debug from the root cause, not just the visible symptom
+- I document architecture, traffic flow, CI/CD flow, and troubleshooting steps
+- I treat every project as a chance to build real operational experience
 
 ---
 
 ## ⚡ Key Focus Areas
 
-- Building production-ready systems
+- Cloud-native application deployment
+- Kubernetes operations
+- Infrastructure as Code
 - CI/CD automation
-- Containerized architectures
-- Cloud deployment strategies
-- Observability & debugging
+- Linux system administration
+- AWS infrastructure
+- Monitoring and observability
+- Networking and traffic routing
+- Production-style troubleshooting
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [linkedin.com/in/ameer-adel](https://www.linkedin.com/in/ameer-adel/)
+- GitHub: [github.com/ameeradel](https://github.com/ameeradel)
+- Email: se.ameeradel@gmail.com
 
 ---
 
 ## 💬 Philosophy
 
-> “Good engineers write code. Great engineers build systems.”
+> Good engineers write code. Great engineers build systems.
