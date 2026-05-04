@@ -6,11 +6,11 @@
 
 ### DevOps Engineer | Linux • AWS • Docker • Kubernetes • Terraform • CI/CD • Monitoring
 
-I’m a DevOps Engineer focused on building, deploying, and operating cloud-native applications using practical, production-style workflows.
+I’m a DevOps Engineer focused on building, deploying, automating, and monitoring cloud-native applications using practical, production-style workflows.
 
-I work across Linux, AWS, Docker, Kubernetes, Terraform, GitHub Actions, NGINX, Prometheus, and Grafana, with a strong focus on automation, reliability, observability, networking, and troubleshooting.
+I work across Linux, AWS, Docker, Kubernetes, Terraform, GitHub Actions, NGINX, Prometheus, and Grafana, with a strong focus on reliability, automation, observability, networking, and troubleshooting.
 
-I don’t just use DevOps tools — I focus on understanding how systems behave in real environments.
+Currently open to DevOps, Cloud, and Infrastructure Engineering opportunities.
 
 ---
 
@@ -26,12 +26,12 @@ I don’t just use DevOps tools — I focus on understanding how systems behave 
 
 ## ⚙️ Tech Stack
 
-### 🐧 Linux & System Administration
+### 🐧 Linux & Operations
 - Linux Administration
 - Bash
 - SSH
-- System troubleshooting
 - Log analysis
+- System troubleshooting
 - Server configuration
 
 ### ☁️ Cloud & Infrastructure
@@ -163,28 +163,8 @@ Kubernetes fundamentals project demonstrating Deployments, Services, ConfigMaps,
 
 ---
 
-## ⚡ Key Focus Areas
-
-- Cloud-native application deployment
-- Kubernetes operations
-- Infrastructure as Code
-- CI/CD automation
-- Linux system administration
-- AWS infrastructure
-- Monitoring and observability
-- Networking and traffic routing
-- Production-style troubleshooting
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: [linkedin.com/in/ameer-adel](https://www.linkedin.com/in/ameer-adel/)
 - GitHub: [github.com/ameeradel](https://github.com/ameeradel)
 - Email: se.ameeradel@gmail.com
-
----
-
-## 💬 Philosophy
-
-> Good engineers write code. Great engineers build systems.
